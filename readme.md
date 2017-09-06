@@ -50,16 +50,16 @@
 </pre>
 <h2>Some comments on the above numbers</h2>
 <p>
-From <strong>(1)</strong> & <strong>(2)</strong>, we can see that as a night 1 veteran, you'll kill ~0.29 bad per game and ~0.23 good guys per game. Thus, it is indeed viable to alert on night one as the veteran. This does <em>not</em> include the fact that killing <em>anybody</em> makes you a confirmed veteran which is a good thing! Having a confirmed town member is great for the team.
+From <strong>(1)</strong> & <strong>(2)</strong>, we can see that as a night one veteran, you'll kill ~0.29 bad guys per game and ~0.23 good guys per game. Thus, it is indeed viable to alert on night one as the veteran. This does <em>not</em> include the fact that killing <em>anybody</em> makes you a confirmed veteran which is a good thing! Having a confirmed town member is great for the team.
 </p>
 <p>
 To clarify point <strong>(9)</strong>, this means that in a million games, the night one veteran killed zero people 605,132 times, killed one person 289013 times, and so on. Amusingly, you'll only kill somebody around 40% of the time if you alert night 1.
 </p>
 <p>
-Points <strong>(11)</strong> & <strong>(12)</strong> are similar to point <strong>(10)</strong>. The veteran killed no bad guys 759706 times, one bad guy 194,320 times, and so on. He killed 4 bad guys 23 times out of a million! 4 is the maximum number of bad guys he can kill under our reasonable assumptions. He killed 4 good guys 35 times out of a million. The veteran would surely be lynched for his failure in that game.
+Points <strong>(11)</strong> & <strong>(12)</strong> are similar to point <strong>(10)</strong>. The veteran killed no bad guys 759,706 times, one bad guy 194,320 times, and so on. He killed 4 bad guys 23 times out of a million! 4 is the maximum number of bad guys he can kill under our reasonable assumptions. He killed 4 good guys 35 times out of a million. The veteran would surely be lynched for his failure in such a game.
 </p>
 <p>
-Point <strong>(12)</strong> is pretty fun and the trends can be explained fairly easily.
+Point <strong>(12)</strong> is pretty fun and the trends can be explained fairly easily:
 </p>
 <p>
 Of course, the jailor cannot be killed by the veteran.
@@ -68,22 +68,22 @@ Of course, the jailor cannot be killed by the veteran.
 The godfather is rarely killed because he sends the mafioso in his place unless the mafioso gets jailed or roleblocked.
 </p>
 <p>
-The next "class" of players are the serial killer, witch, and arsonist. Each of these appear in <sup>1</sup>&frasl;<sub>3</sub> of games. They also select amongst <em>all</em> other players to act upon. 
+The next "class" of players are the serial killer, witch, and arsonist. Each of these appear in <sup>1</sup>&frasl;<sub>3</sub> of games. They also select amongst <em>all</em> other players to act upon so they are unlikely to visit the veteran.
 </p>
 <p>
-Now we have the framer, consort, janitor, blackmailer, forger, disguiser, and consigliere. These roles appear in the game <sup>2</sup>&frasl;<sub>7</sub> of the time and act only upon the 11 other <em>non-mafia players</em>.
+Now we have the framer, consort, janitor, blackmailer, forger, disguiser, and consigliere. Any one of these roles appears in the game <sup>2</sup>&frasl;<sub>7</sub> of the time and only visit the 11 other <em>non-mafia players</em>. This makes them more likely to visit the veteran than neutrals and town members.
 </p>
 <p>
-The loneliest class is the transporter alone. The Transporter can show up as part of Town Support <sup>1</sup>&frasl;<sub>5</sub> or Town Random (roughly <sup>1</sup>&frasl;<sub>12</sub>). The escort would be in the same boat but we chose to exclude the escort from night 1 action as that is a reasonable line of play and it simplifies things.
+The loneliest class is the transporter alone. The Transporter can show up as part of Town Support <sup>1</sup>&frasl;<sub>5</sub> or Town Random (roughly <sup>1</sup>&frasl;<sub>12</sub>). The escort would be in the same boat but we choose to exclude the escort from night 1 action as that is a reasonable line of play and it simplifies things.
 </p>
 <p>
 Now we have the investigator, sheriff, and lookout. They show up as part of Town Investigative (<sup>1</sup>&frasl;<sub>4</sub> each) or Town Random (roughly <sup>1</sup>&frasl;<sub>12</sub>). Since they show up a bit more often than the transporter, they die to the veteran a bit more often!
 </p>
 <p>
-The most likely town members to die to the veteran are the ones that show up the most! Of course, those are the doctor and bodyguard. They appear as Town Protective in half of games each and also sometimes as Town Support. These poor guys get shot by the veteran and they were just trying to help.
+The most likely town members to die to the veteran are the ones that show up the most! Of course, those are the doctor and bodyguard. They appear as Town Protective in half of games each and also sometimes as Town Support. These poor guys get shot by the veteran so often and they were just trying to help!
 </p>
 <p>
-Finally, we have the poor mafioso who does the godfather's bidding and is in <em>every single game</em>. Of course, he dies to the veteran the most.
+Finally, we have the poor mafioso who does the godfather's bidding, is in <em>every single game</em>, and visits <em>only non-mafia</em>. Of course, he dies to the veteran the most.
 </p>
 
   
